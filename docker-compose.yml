@@ -18,3 +18,4 @@ services:
       - ./my-express-server/src:/usr/src/app/src
     environment:
       - NODE_ENV=development
+      
